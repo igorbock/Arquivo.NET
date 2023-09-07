@@ -14,7 +14,7 @@
   "pthreadPoolSize": null,
   "resources": {
     "assembly": {
-      "Arquivo.NET.wasm": "sha256-giJSGFlOZvWj+9L9AgwOOeBL85lmn7nyGfKZZFufyBk=",
+      "Arquivo.NET.wasm": "sha256-Bc9OkQ3cndQODYoo0ISmOA5lY+9IjmEsdx8BPLSxCgg=",
       "Microsoft.AspNetCore.Components.wasm": "sha256-dk10kb\/jhqD47uzea9Se2Q+vEzsMsfn7AkguCAteO6s=",
       "Microsoft.AspNetCore.Components.Web.wasm": "sha256-5IRqlMlHDSt9vuc+kfXSP5knrYbZcNKRtfKplkTNNIA=",
       "Microsoft.AspNetCore.Components.WebAssembly.wasm": "sha256-6VVwODF7i0RMziBOdIX03ZMENPXcCHdPQu\/7H6+Nlx4=",
